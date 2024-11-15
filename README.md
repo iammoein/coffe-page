@@ -14,8 +14,3 @@ A simple and responsive coffee shop page built with React. The project demonstra
 - CSS (for styling and animations)
 - REST API (for data fetching)
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/coffee-shop.git
