@@ -1,2 +1,21 @@
-# coffe-page
-A simple coffee shop page built with React. Products are fetched dynamically from a JSON file using a REST API. Features include product display, filtering (available/all), and smooth animations. Built with React, JavaScript, and CSS for a modern and responsive UI.
+# Coffee Shop Page ☕️
+
+A simple and responsive coffee shop page built with React. The project demonstrates fetching coffee products dynamically through a REST API and features filtering options for better user experience.
+
+## Features
+- Fetch coffee product data dynamically using a REST API.
+- Display product details (name, price, rating, availability).
+- Filter products by availability (All / Available).
+- Smooth animations for better user experience.
+
+## Technologies Used
+- React
+- JavaScript (ES6+)
+- CSS (for styling and animations)
+- REST API (for data fetching)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/coffee-shop.git
